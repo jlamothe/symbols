@@ -315,4 +315,4 @@ footprint=ARDUINO_UNO
 T 0 -5 8 10 0 1 0 0 1
 device=ARDUINO_UNO
 T 0 -5 8 10 0 1 0 0 1
-description=Arduino Uno-compatible device
+description=Arduino Uno-Compatible Device
