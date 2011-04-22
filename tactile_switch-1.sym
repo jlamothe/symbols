@@ -63,3 +63,7 @@ T -5 50 8 10 0 1 0 0 1
 description=Tactile Switch - DigiKey P/N: 450-1650-ND
 T -5 50 8 10 0 1 0 0 1
 footprint=TACTILE_SWITCH
+T -5 50 8 10 0 1 0 0 1
+dist-license=GPLv3 (or later)
+T -5 50 8 10 0 1 0 0 1
+use-license=GPLv3 (or later)

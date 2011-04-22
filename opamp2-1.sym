@@ -78,3 +78,7 @@ T -5 -5 8 10 0 1 0 0 1
 slot=1
 T -5 -5 8 10 0 1 0 0 1
 footprint=DIL 8 300
+T -5 -5 8 10 0 1 0 0 1
+dist-license=GPLv3 (or later)
+T -5 -5 8 10 0 1 0 0 1
+use-license=GPLv3 (or later)
