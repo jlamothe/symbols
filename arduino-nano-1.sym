@@ -330,3 +330,15 @@ pinnumber=28
 T 100 900 5 10 0 0 0 0 1
 pinseq=28
 }
+T 1308 3808 8 10 1 1 0 0 1
+refdes=U?
+T 8 8 8 10 0 1 0 0 1
+footprint=DIL 30 600
+T 8 8 8 10 0 1 0 0 1
+device=ARDUINO_NANO
+T 8 8 8 10 0 1 0 0 1
+description=Arduino Nano-Compatible Device
+T 8 8 8 10 0 1 0 0 1
+dist-license=GPLv3 (or later)
+T 8 8 8 10 0 1 0 0 1
+use-license=GPLv3 (or later)
