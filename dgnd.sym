@@ -21,3 +21,7 @@ T 0 -2 8 10 0 1 0 0 1
 net=DGND:1
 T 0 -2 8 10 0 1 0 0 1
 description=Digital Ground
+T 8 8 8 10 0 1 0 0 1
+dist-license=LGPLv3 (or later)
+T 8 8 8 10 0 1 0 0 1
+use-license=LGPLv3 (or later)

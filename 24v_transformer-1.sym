@@ -88,6 +88,6 @@ device=TRANSFORMER
 T -5 -5 8 10 0 1 0 0 1
 description=24v Transformer - DigiKey P/N: 595-1118-ND
 T -5 -5 8 10 0 1 0 0 1
-dist-license=GPLv3 (or later)
+dist-license=LGPLv3 (or later)
 T -5 -5 8 10 0 1 0 0 1
-use-license=GPLv3 (or later)
+use-license=LGPLv3 (or later)

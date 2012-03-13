@@ -317,6 +317,6 @@ device=ARDUINO_UNO
 T 0 -5 8 10 0 1 0 0 1
 description=Arduino Uno-Compatible Device
 T 0 -5 8 10 0 1 0 0 1
-dist-license=GPLv3 (or later)
+dist-license=LGPLv3 (or later)
 T 0 -5 8 10 0 1 0 0 1
-use-license=GPLv3 (or later)
+use-license=LGPLv3 (or later)

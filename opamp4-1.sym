@@ -83,6 +83,6 @@ slotdef=3:10,9,4,11,8
 T -5 -5 8 10 0 1 0 0 1
 slotdef=4:12,13,4,11,14
 T -5 -5 8 10 0 1 0 0 1
-dist-license=GPLv3 (or later)
+dist-license=LGPLv3 (or later)
 T -5 -5 8 10 0 1 0 0 1
-use-license=GPLv3 (or later)
+use-license=LGPLv3 (or later)

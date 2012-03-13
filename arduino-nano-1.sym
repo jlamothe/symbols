@@ -339,6 +339,6 @@ device=ARDUINO_NANO
 T 8 8 8 10 0 1 0 0 1
 description=Arduino Nano-Compatible Device
 T 8 8 8 10 0 1 0 0 1
-dist-license=GPLv3 (or later)
+dist-license=LGPLv3 (or later)
 T 8 8 8 10 0 1 0 0 1
-use-license=GPLv3 (or later)
+use-license=LGPLv3 (or later)
